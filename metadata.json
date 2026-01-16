@@ -1,0 +1,8 @@
+{
+  "name": "Fashion Unlimited Python",
+  "description": "Virtual Try-On Studio powered by Python and Gemini 2.5.",
+  "entry_point": "app.py",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
